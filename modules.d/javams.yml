@@ -1,7 +1,0 @@
-- module: javams
-  debug:
-    enabled: true
-    var.paths: ["${JAVA_DEBUG_LOG_PATH}"]
-  error:
-    enabled: true
-    var.paths: ["${JAVA_ERROR_LOG_PATH}"]
